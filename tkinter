@@ -1,0 +1,9 @@
+from tkinter import Tk, Label
+
+
+root = Tk()
+root.title("Hello WORLD")
+
+ 
+Label(root, text="Welcome to Pravis Tab").pack()
+root.mainloop()
